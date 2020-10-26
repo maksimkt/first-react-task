@@ -10,7 +10,8 @@ class ComponentA extends React.Component {
         return(
             <div >
                 <button onClick = {randomNum}>
-                    Get random number
+                    нажми на кнопку
+            
                 </button>
             </div>
         )
